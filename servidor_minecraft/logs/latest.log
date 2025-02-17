@@ -1129,3 +1129,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [17Feb2025 22:49:34.688] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
 [17Feb2025 22:49:37.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
 [17Feb2025 22:49:56.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
+[17Feb2025 23:26:33.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YizuzD[/127.11.117.120:44177] logged in with entity id 78707 at (-412.8134030549719, 65.0, -27.80049532194701)
+[17Feb2025 23:26:33.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD joined the game
+[17Feb2025 23:26:33.926] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'YizuzD'
+[17Feb2025 23:26:33.926] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'YizuzD'
+[17Feb2025 23:26:33.928] [Server thread/INFO] [Jade/]: Syncing config to YizuzD (05d100c9-0794-3ad2-b156-ae15f9da9d7a)
