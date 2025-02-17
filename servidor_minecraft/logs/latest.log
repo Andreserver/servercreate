@@ -1134,3 +1134,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [17Feb2025 23:26:33.926] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'YizuzD'
 [17Feb2025 23:26:33.926] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'YizuzD'
 [17Feb2025 23:26:33.928] [Server thread/INFO] [Jade/]: Syncing config to YizuzD (05d100c9-0794-3ad2-b156-ae15f9da9d7a)
+[17Feb2025 23:38:45.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jane_x[/127.194.116.9:54069] logged in with entity id 104466 at (-405.76249998807907, 64.8125, -21.499292985580727)
+[17Feb2025 23:38:45.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jane_x joined the game
+[17Feb2025 23:38:45.982] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'jane_x'
+[17Feb2025 23:38:45.982] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'jane_x'
+[17Feb2025 23:38:45.983] [Server thread/INFO] [Jade/]: Syncing config to jane_x (09e38b38-d2e0-3299-8f63-5b59a6081148)
+[17Feb2025 23:41:58.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17Feb2025 23:44:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jane_x has made the advancement [Enchanter]
