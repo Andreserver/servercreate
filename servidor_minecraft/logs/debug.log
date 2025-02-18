@@ -9739,3 +9739,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [18Feb2025 00:18:35.604] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
 [18Feb2025 00:18:35.605] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
 [18Feb2025 00:18:35.605] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
+[18Feb2025 00:20:09.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=19, y=35, z=-28} BlockPos{x=20, y=35, z=-29}
+[18Feb2025 00:20:17.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:20:17.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=25, y=38, z=-28} BlockPos{x=25, y=37, z=-28}
+[18Feb2025 00:22:42.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[18Feb2025 00:22:42.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[18Feb2025 00:23:25.581] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Feb2025 00:23:25.693] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Feb2025 00:23:25.695] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Feb2025 00:23:27.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [Hostile Paradise]
+[18Feb2025 00:23:27.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[18Feb2025 00:23:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Hostile Paradise]
+[18Feb2025 00:24:04.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Andrexo_16) moved too quickly! -0.21847573958325484,-320.47435040631655,0.23845676751236056
+[18Feb2025 00:24:04.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Andrexo_16) moved too quickly! -0.43832363689909926,-320.72435040631655,0.476427584921602
+[18Feb2025 00:25:46.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [The More You Know!]
+[18Feb2025 00:26:14.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Cold as Ice]
+[18Feb2025 00:26:57.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Andrexo_16) moved too quickly! -0.2881316925119677,-320.4470357677222,0.1479056717049403
+[18Feb2025 00:26:57.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Andrexo_16) moved too quickly! -0.5763053977396453,-320.6970357677222,0.29579865881096623
+[18Feb2025 00:26:57.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Andrexo_16) moved too quickly! -0.8654791029673561,-320.9470357677222,0.4431916459169898
+[18Feb2025 00:27:44.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[18Feb2025 00:27:44.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
