@@ -11238,5 +11238,17 @@
     },
     "done": true
   },
+  "tfmg:recipes/building_blocks/brass_truss_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-18 15:10:33 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/brass_frame_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-02-18 15:10:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
