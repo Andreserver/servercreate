@@ -9854,6 +9854,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_stone_from_pillar_stonecutting": {
+    "criteria": {
+      "has_pillar": "2025-02-18 00:42:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_leggings": {
     "criteria": {
       "has_zanite": "2025-02-18 00:32:53 +0000"
@@ -10049,6 +10055,12 @@
   "aether:recipes/combat/wood_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-02-18 00:32:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_top_from_pillar_stonecutting": {
+    "criteria": {
+      "has_pillar": "2025-02-18 00:42:59 +0000"
     },
     "done": true
   },
