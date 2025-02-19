@@ -1150,3 +1150,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [19Feb2025 21:32:37.780] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
 [19Feb2025 21:32:37.781] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
 [19Feb2025 21:32:37.782] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
+[19Feb2025 21:55:53.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-669, y=34, z=454} BlockPos{x=-670, y=33, z=455}
+[19Feb2025 22:12:25.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! 5.7113536396190625,-6.440376472085335,-6.470623273715944
+[19Feb2025 22:15:12.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Timed out
+[19Feb2025 22:15:12.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
