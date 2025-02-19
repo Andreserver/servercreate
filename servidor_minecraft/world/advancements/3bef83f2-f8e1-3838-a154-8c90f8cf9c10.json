@@ -11268,5 +11268,17 @@
     },
     "done": true
   },
+  "tfmg:recipes/decorations/cast_iron_ladder_from_ingots_cast_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_cast_iron": "2025-02-19 20:59:39 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/cast_iron_bars_from_ingots_cast_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_cast_iron": "2025-02-19 20:59:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
