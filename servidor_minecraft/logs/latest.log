@@ -2,3 +2,8 @@
 [20Feb2025 00:26:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Oil Deposit] to Andrexo_16
 [20Feb2025 00:26:11.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Oil Deposit] to Andrexo_16
 [20Feb2025 00:26:12.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Oil Deposit] to Andrexo_16
+[20Feb2025 01:42:56.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YizuzD[/127.11.117.120:52861] logged in with entity id 240349 at (-422.1971354819936, 64.0, -0.8656220324020683)
+[20Feb2025 01:42:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD joined the game
+[20Feb2025 01:42:57.004] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'YizuzD'
+[20Feb2025 01:42:57.004] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'YizuzD'
+[20Feb2025 01:42:57.005] [Server thread/INFO] [Jade/]: Syncing config to YizuzD (05d100c9-0794-3ad2-b156-ae15f9da9d7a)
