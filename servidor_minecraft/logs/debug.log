@@ -8876,3 +8876,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [20Feb2025 00:05:22.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [20Feb2025 00:10:22.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Feb2025 00:10:22.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 00:15:22.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 00:15:22.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 00:20:22.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 00:20:22.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 00:25:22.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 00:25:22.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 00:26:03.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Oil Deposit] to Andrexo_16
+[20Feb2025 00:26:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Oil Deposit] to Andrexo_16
+[20Feb2025 00:26:11.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Oil Deposit] to Andrexo_16
+[20Feb2025 00:26:12.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Oil Deposit] to Andrexo_16
+[20Feb2025 00:30:22.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 00:30:22.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 00:34:52.174] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
+[20Feb2025 00:35:22.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 00:35:22.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 00:40:22.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 00:40:22.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
