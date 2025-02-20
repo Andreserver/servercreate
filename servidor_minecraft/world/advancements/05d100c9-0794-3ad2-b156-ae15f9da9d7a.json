@@ -10292,6 +10292,12 @@
     },
     "done": true
   },
+  "aether:craft_altar": {
+    "criteria": {
+      "craft_altar": "2025-02-20 02:43:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_stairs": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
@@ -10310,6 +10316,12 @@
     },
     "done": true
   },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-02-20 02:40:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
@@ -10325,6 +10337,18 @@
   "aether:recipes/building_blocks/angelic_slab": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/remedy_bucket_enchanting": {
+    "criteria": {
+      "has_skyroot_poison_bucket": "2025-02-20 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-02-20 02:38:11 +0000"
     },
     "done": true
   },
