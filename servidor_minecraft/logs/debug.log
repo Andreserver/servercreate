@@ -9367,3 +9367,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [20Feb2025 02:45:21.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Feb2025 02:45:22.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [20Feb2025 02:45:22.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! -6.356491926716899,8.08454642260007,-0.18590446605304578
+[20Feb2025 02:46:48.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Cool Jewelery!]
+[20Feb2025 02:50:21.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 02:50:21.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 02:52:46.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5905ms or 118 ticks behind
+[20Feb2025 02:52:46.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2684, y=-41, z=-136}
+[20Feb2025 02:52:46.766] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2684, y=-41, z=-134}
+[20Feb2025 02:53:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Andrexo_16 to YizuzD
+[20Feb2025 02:55:27.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 02:55:27.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World

@@ -25,3 +25,8 @@
 [20Feb2025 02:40:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has reached the goal [Like a Bossaru!]
 [20Feb2025 02:43:18.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Do You Believe in Magic?]
 [20Feb2025 02:45:22.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! -6.356491926716899,8.08454642260007,-0.18590446605304578
+[20Feb2025 02:46:48.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Cool Jewelery!]
+[20Feb2025 02:52:46.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5905ms or 118 ticks behind
+[20Feb2025 02:52:46.763] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2684, y=-41, z=-136}
+[20Feb2025 02:52:46.766] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2684, y=-41, z=-134}
+[20Feb2025 02:53:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Andrexo_16 to YizuzD

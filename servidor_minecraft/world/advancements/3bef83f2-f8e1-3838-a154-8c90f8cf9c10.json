@@ -11484,6 +11484,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_parachute": {
+    "criteria": {
+      "has_golden_aercloud": "2025-02-20 02:50:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_stairs": {
     "criteria": {
       "has_carved_stone": "2025-02-20 02:40:10 +0000"

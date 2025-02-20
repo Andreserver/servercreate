@@ -10370,9 +10370,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/flower_to_purple_dye": {
+    "criteria": {
+      "has_purple_flower": "2025-02-20 02:51:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:ice_accessory": {
+    "criteria": {
+      "ice_pendant": "2025-02-20 02:46:48 +0000"
     },
     "done": true
   },
