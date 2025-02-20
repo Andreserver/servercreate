@@ -10316,6 +10316,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/gravitite_leggings_repairing": {
+    "criteria": {
+      "has_gravitite_leggings": "2025-02-20 03:17:00 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/ice_ring_from_freezing": {
     "criteria": {
       "has_ring": "2025-02-20 03:01:24 +0000"
@@ -10477,6 +10483,12 @@
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
     },
     "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_leggings": "2025-02-20 03:17:00 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

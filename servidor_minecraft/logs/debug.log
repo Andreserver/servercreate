@@ -9407,3 +9407,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [20Feb2025 03:13:55.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! 0.04287358352530646,-0.9460578270146982,-10.471577732846754
 [20Feb2025 03:15:27.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Feb2025 03:15:27.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 03:20:27.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 03:20:27.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 03:21:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Sun Altar] to Andrexo_16
+[20Feb2025 03:25:27.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 03:25:27.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 03:25:39.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! -9.770432157196865,1.3389468410290704,-1.8769371451426196
