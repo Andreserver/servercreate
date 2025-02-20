@@ -11334,27 +11334,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-02-20 00:05:14 +0000"
-    },
-    "done": true
-  },
   "tfmg:recipes/building_blocks/layered_bauxite_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2025-02-19 23:52:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/ingot_aluminum_compat_immersiveengineering": {
-    "criteria": {
-      "has_item": "2025-02-19 23:53:01 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/decorations/aluminum_bars_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-02-19 23:53:32 +0000"
     },
     "done": true
   },
@@ -11373,12 +11355,6 @@
   "tfmg:recipes/building_blocks/bauxite_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2025-02-19 23:52:41 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/decorations/aluminum_ladder_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-02-19 23:53:32 +0000"
     },
     "done": true
   },
@@ -11406,18 +11382,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/ingot_aluminium_compat_ic2": {
-    "criteria": {
-      "has_item": "2025-02-19 23:53:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/ingot_aluminium_compat_ic2": {
-    "criteria": {
-      "has_item": "2025-02-19 23:53:01 +0000"
-    },
-    "done": true
-  },
   "tfmg:recipes/building_blocks/cut_bauxite_wall_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2025-02-19 23:52:41 +0000"
@@ -11427,12 +11391,6 @@
   "tfmg:recipes/building_blocks/polished_cut_bauxite_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2025-02-19 23:52:41 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/decorations/aluminum_scaffolding_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-02-19 23:53:32 +0000"
     },
     "done": true
   },
@@ -11454,12 +11412,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/ingot_aluminum_compat_immersiveengineering": {
-    "criteria": {
-      "has_item": "2025-02-19 23:53:01 +0000"
-    },
-    "done": true
-  },
   "tfmg:recipes/building_blocks/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2025-02-19 23:52:41 +0000"
@@ -11475,6 +11427,54 @@
   "tfmg:recipes/building_blocks/bauxite_pillar_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2025-02-19 23:52:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2025-02-19 23:53:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/ingot_aluminium_compat_ic2": {
+    "criteria": {
+      "has_item": "2025-02-19 23:53:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/ingot_aluminium_compat_ic2": {
+    "criteria": {
+      "has_item": "2025-02-19 23:53:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/ingot_aluminum_compat_immersiveengineering": {
+    "criteria": {
+      "has_item": "2025-02-19 23:53:01 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_bars_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-02-19 23:53:32 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_ladder_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-02-19 23:53:32 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_scaffolding_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-02-19 23:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-20 00:05:14 +0000"
     },
     "done": true
   },
