@@ -1171,3 +1171,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [19Feb2025 23:27:16.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [19Feb2025 23:27:34.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
 [19Feb2025 23:29:51.480] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCatfish['Catfish'/6110, l='ServerLevel[World]', x=-363.23, y=36.40, z=-144.06]
+[19Feb2025 23:37:53.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 lost connection: Timed out
+[19Feb2025 23:37:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 left the game
+[19Feb2025 23:44:04.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo_16[/127.226.76.9:45299] logged in with entity id 23108 at (-418.6291759867107, 64.0, 47.42000220208955)
+[19Feb2025 23:44:04.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 joined the game
+[19Feb2025 23:44:04.122] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
+[19Feb2025 23:44:04.126] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
+[19Feb2025 23:44:04.126] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
+[19Feb2025 23:52:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Bauxite] to Andrexo_16
+[19Feb2025 23:52:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Bauxite] to Andrexo_16
