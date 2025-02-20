@@ -11478,21 +11478,63 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/angelic_stairs": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_slab": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/angelic_wall_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/angelic_wall": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_pickaxe": {
     "criteria": {
       "has_zanite": "2025-02-20 02:37:53 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_parachute": {
-    "criteria": {
-      "has_golden_aercloud": "2025-02-20 02:50:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_stairs": {
-    "criteria": {
-      "has_carved_stone": "2025-02-20 02:40:10 +0000"
     },
     "done": true
   },
@@ -11502,27 +11544,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_stairs": {
-    "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/zanite_sword": {
     "criteria": {
       "has_zanite": "2025-02-20 02:37:53 +0000"
-    },
-    "done": true
-  },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2025-02-20 02:58:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/ice_ring_from_freezing": {
-    "criteria": {
-      "has_ring": "2025-02-20 03:15:40 +0000"
     },
     "done": true
   },
@@ -11538,27 +11562,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/ambrosium_torch": {
-    "criteria": {
-      "has_holystone_pickaxe": "2025-02-20 02:38:23 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/zanite_block": {
     "criteria": {
       "has_zanite_gemstone": "2025-02-20 02:37:53 +0000"
-    },
-    "done": true
-  },
-  "aether:bronze_dungeon": {
-    "criteria": {
-      "kill_slider": "2025-02-20 02:40:08 +0000"
     },
     "done": true
   },
@@ -11574,45 +11580,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_light_angelic_stone": "2025-02-20 03:01:25 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2025-02-20 02:40:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/zanite_helmet": {
     "criteria": {
       "has_zanite": "2025-02-20 02:37:53 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2025-02-20 02:40:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2025-02-20 02:40:10 +0000"
-    },
-    "done": true
-  },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_pickaxe": "2025-02-20 02:38:58 +0000"
     },
     "done": true
   },
@@ -11634,57 +11604,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_slab": {
-    "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/skyroot_pickaxe_repairing": {
-    "criteria": {
-      "has_skyroot_pickaxe": "2025-02-20 02:37:57 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/zanite_pickaxe_repairing": {
-    "criteria": {
-      "has_zanite_pickaxe": "2025-02-20 02:39:09 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-02-20 02:37:53 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/angelic_wall_from_angelic_stone_stonecutting": {
-    "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
-    },
-    "done": true
-  },
-  "aether:lance_loot": {
-    "criteria": {
-      "lance_loot": "2025-02-20 03:10:05 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_slab": {
-    "criteria": {
-      "has_carved_stone": "2025-02-20 02:40:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/angelic_wall": {
-    "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2025-02-20 02:40:10 +0000"
     },
     "done": true
   },
@@ -11694,13 +11616,19 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/pillar_from_angelic_stone_stonecutting": {
+  "aether:recipes/tools/nature_staff": {
     "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+      "has_zanite": "2025-02-20 02:37:53 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/nature_staff": {
+  "aether:recipes/combat/zanite_ring": {
+    "criteria": {
+      "has_zanite": "2025-02-20 02:37:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_shovel": {
     "criteria": {
       "has_zanite": "2025-02-20 02:37:53 +0000"
     },
@@ -11712,15 +11640,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/zanite_ring": {
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
     "criteria": {
-      "has_zanite": "2025-02-20 02:37:53 +0000"
+      "has_skyroot_pickaxe": "2025-02-20 02:37:57 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/carved_wall": {
+  "aether:recipes/decorations/ambrosium_torch": {
     "criteria": {
-      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+      "has_holystone_pickaxe": "2025-02-20 02:38:23 +0000"
     },
     "done": true
   },
@@ -11730,21 +11658,93 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_pickaxe": "2025-02-20 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_pickaxe_repairing": {
+    "criteria": {
+      "has_zanite_pickaxe": "2025-02-20 02:39:09 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2025-02-20 02:40:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_parachute": {
+    "criteria": {
+      "has_golden_aercloud": "2025-02-20 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-02-20 02:58:12 +0000"
+    },
+    "done": true
+  },
   "aether:regen_stone": {
     "criteria": {
       "regen_stone": "2025-02-20 02:58:56 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/zanite_shovel": {
+  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
     "criteria": {
-      "has_zanite": "2025-02-20 02:37:53 +0000"
+      "has_light_angelic_stone": "2025-02-20 03:01:25 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
+  "aether:lance_loot": {
     "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+      "lance_loot": "2025-02-20 03:10:05 +0000"
     },
     "done": true
   },
@@ -11754,9 +11754,27 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/angelic_stairs_from_angelic_stone_stonecutting": {
+  "aether:recipes/misc/ice_ring_from_freezing": {
     "criteria": {
-      "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+      "has_ring": "2025-02-20 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "aether:gold_dungeon": {
+    "criteria": {
+      "kill_sun_spirit": "2025-02-20 03:39:25 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_chestplate": "2025-02-20 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-02-20 17:16:26 +0000"
     },
     "done": true
   },
