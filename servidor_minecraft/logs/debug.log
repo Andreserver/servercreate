@@ -9376,3 +9376,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [20Feb2025 02:53:12.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Andrexo_16 to YizuzD
 [20Feb2025 02:55:27.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Feb2025 02:55:27.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 02:58:12.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has reached the goal [Dethroned]
+[20Feb2025 02:58:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Battle Hardened]
+[20Feb2025 02:58:56.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [Battle Hardened]
+[20Feb2025 03:00:27.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 03:00:27.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 03:03:05.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:pocion'
+[20Feb2025 03:03:05.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ndrexo_16 pocion de fuerza<--[HERE]
+[20Feb2025 03:03:29.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:streng_potion'
+[20Feb2025 03:03:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ndrexo_16 minecraft:streng_potion<--[HERE]
+[20Feb2025 03:04:24.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[20Feb2025 03:04:24.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ndrexo_16  minecraft:potion{Potion:"minecraft:strength"}<--[HERE]
+[20Feb2025 03:04:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[20Feb2025 03:04:40.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ndrexo_16  minecraft:potion:strength<--[HERE]
+[20Feb2025 03:04:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:'
+[20Feb2025 03:04:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ndrexo_16  minecraft:potion_strength<--[HERE]
+[20Feb2025 03:04:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:potion_strength'
+[20Feb2025 03:04:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ndrexo_16 potion_strength<--[HERE]
+[20Feb2025 03:05:27.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 03:05:27.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 03:05:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Strength to Andrexo_16

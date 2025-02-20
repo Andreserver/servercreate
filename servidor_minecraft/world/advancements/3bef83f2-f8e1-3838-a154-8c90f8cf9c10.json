@@ -11514,6 +11514,12 @@
     },
     "done": true
   },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2025-02-20 02:58:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_leggings": {
     "criteria": {
       "has_zanite": "2025-02-20 02:37:53 +0000"
@@ -11559,6 +11565,12 @@
   "aether:recipes/tools/zanite_axe": {
     "criteria": {
       "has_zanite": "2025-02-20 02:37:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/angelic_stone_from_light_angelic_stone_stonecutting": {
+    "criteria": {
+      "has_light_angelic_stone": "2025-02-20 03:01:25 +0000"
     },
     "done": true
   },
@@ -11703,6 +11715,12 @@
   "aether:recipes/tools/holystone_pickaxe_repairing": {
     "criteria": {
       "has_holystone_pickaxe": "2025-02-20 02:38:23 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-02-20 02:58:56 +0000"
     },
     "done": true
   },

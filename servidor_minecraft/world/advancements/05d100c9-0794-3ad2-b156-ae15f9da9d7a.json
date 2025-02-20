@@ -10310,6 +10310,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/ice_ring_from_freezing": {
+    "criteria": {
+      "has_ring": "2025-02-20 03:01:24 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/angelic_slab_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
@@ -10373,6 +10379,12 @@
   "aether:recipes/misc/flower_to_purple_dye": {
     "criteria": {
       "has_purple_flower": "2025-02-20 02:51:32 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2025-02-20 02:58:23 +0000"
     },
     "done": true
   },
