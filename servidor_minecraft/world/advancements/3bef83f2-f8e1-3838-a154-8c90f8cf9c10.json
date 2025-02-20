@@ -11658,6 +11658,12 @@
     },
     "done": true
   },
+  "aether:lance_loot": {
+    "criteria": {
+      "lance_loot": "2025-02-20 03:10:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_slab": {
     "criteria": {
       "has_carved_stone": "2025-02-20 02:40:10 +0000"
@@ -11733,6 +11739,12 @@
   "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "aether:hammer_loot": {
+    "criteria": {
+      "hammer_loot": "2025-02-20 03:10:18 +0000"
     },
     "done": true
   },

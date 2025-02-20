@@ -10292,6 +10292,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 03:09:21 +0000"
+    },
+    "done": true
+  },
   "aether:craft_altar": {
     "criteria": {
       "craft_altar": "2025-02-20 02:43:18 +0000"
@@ -10322,15 +10328,39 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/ambrosium_torch": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-02-20 03:05:45 +0000"
+    },
+    "done": true
+  },
   "aether:bronze_dungeon": {
     "criteria": {
       "kill_slider": "2025-02-20 02:40:08 +0000"
     },
     "done": true
   },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 03:09:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/pillar_top_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 03:09:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 03:09:21 +0000"
     },
     "done": true
   },
@@ -10343,6 +10373,12 @@
   "aether:recipes/building_blocks/angelic_slab": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/skyroot_pickaxe_repairing": {
+    "criteria": {
+      "has_skyroot_pickaxe": "2025-02-20 03:06:37 +0000"
     },
     "done": true
   },
@@ -10364,9 +10400,27 @@
     },
     "done": true
   },
+  "aether:lance_loot": {
+    "criteria": {
+      "lance_loot": "2025-02-20 03:09:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 03:09:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/angelic_wall": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 03:09:21 +0000"
     },
     "done": true
   },
@@ -10376,9 +10430,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2025-02-20 03:09:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/flower_to_purple_dye": {
     "criteria": {
       "has_purple_flower": "2025-02-20 02:51:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_pickaxe_repairing": {
+    "criteria": {
+      "has_holystone_pickaxe": "2025-02-20 03:05:45 +0000"
     },
     "done": true
   },
@@ -10391,6 +10457,12 @@
   "aether:recipes/building_blocks/light_angelic_stone_from_angelic_stone_stonecutting": {
     "criteria": {
       "has_angelic_stone": "2025-02-20 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "aether:hammer_loot": {
+    "criteria": {
+      "hammer_loot": "2025-02-20 03:09:36 +0000"
     },
     "done": true
   },

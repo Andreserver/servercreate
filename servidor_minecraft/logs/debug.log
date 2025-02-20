@@ -9396,3 +9396,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [20Feb2025 03:05:27.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
 [20Feb2025 03:05:27.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
 [20Feb2025 03:05:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Strength to Andrexo_16
+[20Feb2025 03:09:34.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has made the advancement [Challenger to the Throne]
+[20Feb2025 03:09:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YizuzD has reached the goal [The Power of the Gods]
+[20Feb2025 03:10:05.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has made the advancement [Challenger to the Throne]
+[20Feb2025 03:10:18.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 has reached the goal [The Power of the Gods]
+[20Feb2025 03:10:27.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 03:10:27.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
+[20Feb2025 03:11:27.086] [Worker-Main-123/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3082, y=44, z=-248}
+[20Feb2025 03:13:14.842] [Worker-Main-153/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3481, y=48, z=487}
+[20Feb2025 03:13:55.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrexo_16 moved too quickly! 0.04287358352530646,-0.9460578270146982,-10.471577732846754
+[20Feb2025 03:15:27.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save World
+[20Feb2025 03:15:27.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete World
