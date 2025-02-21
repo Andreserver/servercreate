@@ -1133,3 +1133,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tfmg:battery'
 [21Feb2025 16:21:41.623] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21Feb2025 16:21:41.673] [Server thread/INFO] [com.drmangotea.tfmg.CreateTFMG/]: YEEEHAAW
 [21Feb2025 16:21:41.685] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[21Feb2025 17:08:32.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrexo_16[/127.226.76.9:52863] logged in with entity id 86 at (-417.1104159841036, 64.0, 56.882936596335426)
+[21Feb2025 17:08:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrexo_16 joined the game
+[21Feb2025 17:08:32.263] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'Andrexo_16'
+[21Feb2025 17:08:32.264] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
+[21Feb2025 17:08:32.266] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'Andrexo_16'
+[21Feb2025 17:08:32.286] [Server thread/INFO] [Jade/]: Syncing config to Andrexo_16 (3bef83f2-f8e1-3838-a154-8c90f8cf9c10)
+[21Feb2025 17:08:34.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[21Feb2025 17:08:54.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
